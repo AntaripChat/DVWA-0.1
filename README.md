@@ -553,6 +553,6 @@ If you have an idea, some kind of improvement or just simply want to collaborate
 
 ## Links
 
-Project Home: <https://github.com/digininja/DVWA>
+<!--Project Home: <https://github.com/digininja/DVWA>
 
-*Created by the DVWA team*
+*Created by the DVWA team*-->
